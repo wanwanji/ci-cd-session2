@@ -55,7 +55,7 @@ jobs:
 
           token = os.environ["HF_TOKEN"]
 
-          repo_id = "wanwanji/imdb-sentiment-nn"
+          repo_id = "yyj95/imdb-sentiment-nn"
 
           api = HfApi()
 
